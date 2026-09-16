@@ -15,20 +15,48 @@
 
 ## Hey, I'm Antonio 👋
 
-I'm a **full-stack developer based in Valencia, Spain**, building web and mobile applications with JavaScript and TypeScript.
+I'm a **full-stack developer based in Valencia, Spain**, building end-to-end JavaScript and TypeScript applications: React interfaces, Node.js microservices and serverless APIs on AWS.
 
 My recent projects explore **AI-powered applications**: document search with RAG, streaming answers with citations, and customer-support workflows that connect AI and human agents.
 
-- **Web:** React and Next.js interfaces backed by Node.js and NestJS APIs.
-- **Mobile:** React Native and Expo projects.
-- **AI & data:** PostgreSQL, pgvector, Redis and BullMQ.
-- **Architecture:** exploring hexagonal architecture and clear boundaries between domain logic and infrastructure.
+- **Frontend & mobile:** React, Next.js, React Native and Expo.
+- **Backend & APIs:** Node.js, Express and NestJS; REST, GraphQL (Apollo), WebSockets, JWT authentication and role-based access control.
+- **Data & caching:** PostgreSQL, DynamoDB, MongoDB, MySQL and Redis.
+- **Cloud & architecture:** AWS serverless, microservices and asynchronous workflows; hexagonal architecture in my recent AI projects.
+- **AI applications:** RAG, pgvector, streaming responses and BullMQ workers.
 
-## My stack
+## My full-stack toolkit
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,nestjs,postgres,redis,docker,git&amp;perline=5" alt="TypeScript, JavaScript, React, Next.js, Node.js, NestJS, PostgreSQL, Redis, Docker and Git">
-</div>
+### Frontend & mobile
+
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind&amp;perline=5" alt="TypeScript, JavaScript, React, Next.js and Tailwind CSS">
+
+React Native · Expo · Redux · Zustand · MobX
+
+### Backend & APIs
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql&amp;perline=4" alt="Node.js, Express, NestJS and GraphQL">
+
+REST APIs · GraphQL / Apollo · WebSockets · JWT · Role-based access control · Microservices
+
+### Databases & caching
+
+<img src="https://skillicons.dev/icons?i=postgres,dynamodb,mongodb,mysql,redis&amp;perline=5" alt="PostgreSQL, DynamoDB, MongoDB, MySQL and Redis">
+
+SQL schema design & query optimization · Redis caching · pgvector for AI retrieval
+
+### AWS & delivery
+
+<img src="https://skillicons.dev/icons?i=aws,docker,terraform,githubactions&amp;perline=4" alt="AWS, Docker, Terraform and GitHub Actions">
+
+- **Serverless & messaging:** Lambda, API Gateway, SQS and SNS.
+- **Compute & storage:** ECS / Fargate, EC2, S3 and CloudFront.
+- **Identity & monitoring:** Cognito and CloudWatch.
+- **Delivery:** Docker, Terraform and GitHub Actions CI/CD.
+
+### Testing & quality
+
+Jest · Supertest for API testing · React Testing Library · Cypress · Storybook · WCAG 2.1 accessibility
 
 <br>
 
