@@ -1,17 +1,13 @@
 <div align="center">
+  <img src="assets/marco-animated-profile.svg" width="100%" alt="Antonio — animated engineering profile banner">
+</div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
-  <img src="assets/banner-dark.svg" width="100%" alt="Antonio — Full-stack developer. Web, mobile and AI applications. Valencia, Spain.">
-</picture>
+<div align="center">
+  <a href="https://antoniodeveloper.com"><img src="https://img.shields.io/badge/Portfolio-antoniodeveloper.com-A78BFA?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Visit my portfolio"></a>
+  <a href="https://github.com/AntonioVillegas01?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore_my_work-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore my repositories"></a>
+</div>
 
 <br>
-
-<a href="https://antoniodeveloper.com"><img src="https://img.shields.io/badge/Portfolio-antoniodeveloper.com-A78BFA?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Visit my portfolio"></a>
-<a href="https://github.com/AntonioVillegas01?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore_my_work-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore my repositories"></a>
-
-</div>
 
 ## Hey, I'm Antonio 👋
 
