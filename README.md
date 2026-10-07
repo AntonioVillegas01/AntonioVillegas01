@@ -3,8 +3,8 @@
 </div>
 
 <div align="center">
-  <a href="https://antoniodeveloper.com"><img src="https://img.shields.io/badge/Portfolio-antoniodeveloper.com-A78BFA?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Visit my portf[...]
-  <a href="https://github.com/AntonioVillegas01?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore_my_work-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Exp[...]
+  <a href="https://antoniodeveloper.com"><img src="https://img.shields.io/badge/Portfolio-antoniodeveloper.com-A78BFA?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Visit my portfolio"></a>
+  <a href="https://github.com/AntonioVillegas01?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore_my_work-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore my work"></a>
 </div>
 
 <br>
@@ -59,12 +59,10 @@ Jest · Supertest for API testing · React Testing Library · Cypress · Storybo
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/focus-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/focus-light.svg">
-  <img src="assets/focus-dark.svg" width="100%" alt="Project focus: web applications with React, Next.js and NestJS; mobile with React Native and Expo; AI applications with RAG, pgvector and queue wor[...]
+  <img src="assets/focus-dark.svg" width="100%" alt="Project focus: web applications with React, Next.js and NestJS; mobile with React Native and Expo; AI applications with RAG, pgvector and queue workers">
 </picture>
 
 ## Selected projects
-
-
 
 ### [E-Commerce Platform](https://github.com/AntonioVillegas01/ecommerce-prod-ready-app)
 
