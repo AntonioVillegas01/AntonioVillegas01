@@ -9,7 +9,7 @@
 
 <br>
 
-## Hey, I'm Antonio 👋
+## Hey, I'm Antonio 
 
 I'm a **full-stack developer based in Valencia, Spain**, building end-to-end JavaScript and TypeScript applications: React interfaces, Node.js microservices and serverless APIs on AWS.
 
