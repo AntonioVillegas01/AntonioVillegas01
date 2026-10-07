@@ -64,7 +64,7 @@ Jest · Supertest for API testing · React Testing Library · Cypress · Storybo
 
 ## Selected projects
 
-### [E-Commerce Platform · Production-Ready](https://github.com/AntonioVillegas01/ecommerce-prod-ready-app)
+### [E-Commerce Platform](https://github.com/AntonioVillegas01/ecommerce-prod-ready-app)
 
 Production-ready full-stack e-commerce platform with monorepo architecture, micro frontends, backend services and hexagonal design. Automated testing, CI/CD and cloud deployment.
 
